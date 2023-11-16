@@ -1,6 +1,8 @@
 # Project Report
 * Review file은 따로 생성 했습니다
 * News_summary_more_final 파일 보시면 됩니다!
+* News_summary_more_Bert는 pre-trained model 활용!
+  (성능이 기가 막혔음!, 샘플 10개만 테스트)
 
 ---
 # 6. 회고록
